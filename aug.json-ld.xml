@@ -1,0 +1,30 @@
+﻿<events>
+  <event itemtype="BusinessEvent" xml:id="7099868B-8147-4B83-8894-39EA60D616E0">
+    <evt_title itemprop="name">4A's Strategy Festival 2015</evt_title>
+    <evt_start_datetime itemprop="startDate" datetime="2015-10-04T08:30:00">2015-10-04T08:30:00</evt_start_datetime>
+    <evt_end_datetime itemprop="endDate" datetime="2015-10-06T00:00:00">2015-10-06T00:00:00</evt_end_datetime>
+    <eventStatus itemprop="eventStatus">EventScheduled</eventStatus>
+    <locations>
+      <location xml:id="DD84366F-72FA-4380-879A-A7A43328BEBD" itemprop="location" itemtype="Place">
+        <loc_name itemprop="name">Convene at 32 Old Slip</loc_name>
+        <url_code xml:id="998C2B0B-DA67-401F-A295-7BC86B3D5A5D" xml:href="http://convene.com/location/financial-district-downtown-nyc/" itemprop="url">http://convene.com/location/financial-district-downtown-nyc/</url_code>
+        <addresses>
+          <address xml:id="D0E45178-9545-4E48-8458-76AF635BE465" itemprop="address" itemtype="PostalAddress">
+            <streetAddress itemprop="streetAddress">32 Old Slip 2nd FL </streetAddress>
+            <adr_city itemprop="addressLocality">New York</adr_city>
+            <adr_state itemprop="addressRegion">NY</adr_state>
+            <adr_post_code itemprop="postalCode">10005-3546</adr_post_code>
+            <adr_country itemprop="addressCountry">UNITED STATES</adr_country>
+          </address>
+        </addresses>
+      </location>
+    </locations>
+    <offers>
+      <offer itemprop="offers" itemtype="Offer">
+        <ItemAvailability itemprop="availability">InStock</ItemAvailability>
+        <price itemprop="price" content="795.0000">795.0000</price>
+        <priceCurrency itemprop="priceCurrency" content="USD">$</priceCurrency>
+      </offer>
+    </offers>
+  </event>
+</events>
